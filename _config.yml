@@ -1,0 +1,28 @@
+name: MyFoneHwa
+favicon: null
+layout_spectrum: 0.7021245898213238
+typography_spectrum: 0.8138007626403123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.708289657952264
+  lightness: 0.6724915951490402
+  saturation: 0.5223118525464088
+  rhythmicContrast: 0.32797467056661844
+purpose: []
